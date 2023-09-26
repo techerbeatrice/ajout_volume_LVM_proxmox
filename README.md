@@ -17,6 +17,7 @@
 
 ![image](https://github.com/techerbeatrice/ajout_volume_LVM_proxmox/assets/138071140/23c0ea73-3084-468e-aca7-1c0586551e97)
 
+![image](https://github.com/techerbeatrice/ajout_volume_LVM_proxmox/assets/138071140/8eddd621-491d-421c-a90b-0ed6109e69ff)
 
 
 
